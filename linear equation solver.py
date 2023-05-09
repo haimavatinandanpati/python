@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 def solve_linear_equation(a1, b1, c1, a2, b2, c2):
     determinant = a1 * b2 - a2 * b1
 
@@ -22,3 +23,6 @@ b2 = 1
 c2 = 9
 
 solve_linear_equation(a1, b1, c1, a2, b2, c2)
+=======
+
+>>>>>>> 294c87c0387da2cd342287fc12f43bf6c1c574c7
