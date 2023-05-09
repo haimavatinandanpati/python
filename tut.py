@@ -1,4 +1,6 @@
-"""
+import os
+os.system("python --version")  
+
 x = int(input("enter number"))
 match x:
     case 1:
@@ -7,9 +9,7 @@ match x:
         print("number is 2")
     case _:
         print("unknown")
-"""
+
+        
 
 
-
-import os
-os.system("python --version")  
